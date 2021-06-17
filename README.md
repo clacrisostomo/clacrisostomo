@@ -8,7 +8,7 @@
 - 👩‍💻 Currently working as an Admissions agent at [Tagarela Intercambios](http://tagarela.com.au)
 - 📖 Freelance translator EN PT
 - 🎞️ Interested in films and series
-- 🗺️ Love travelling and languages
+- 🌎 Love travelling and languages
 - 😄 Pronouns: she/her
 
 ---
