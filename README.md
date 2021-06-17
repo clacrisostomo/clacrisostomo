@@ -16,6 +16,8 @@
 
 <img src="https://github.com/clacrisostomo/pics/blob/master/libftm.png"> <img src="https://github.com/clacrisostomo/pics/blob/master/get_next_linem.png"> <img src="https://github.com/clacrisostomo/pics/blob/master/netwhate.png"> <img src="https://github.com/clacrisostomo/pics/blob/master/ft_printfe.png"> <img src="https://github.com/clacrisostomo/pics/blob/master/cub3de.png">
 
+[![Clarissa's 42 stats](https://badge42.herokuapp.com/api/stats/csantos-?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+
 ---
 
 | [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_libft&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_libft) | [![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_get_next_line&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_get_next_line) |
