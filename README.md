@@ -1,4 +1,4 @@
-
+<img src="https://github.com/clacrisostomo/pics/blob/master/Cover.gif">
 
 <h2> Hello, Clarissa here!</h2>
 
