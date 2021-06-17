@@ -18,7 +18,7 @@
 
 ---
 
-| [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_libft&theme=material-palenight&hide_border=true&show_icons=true&count_private=true&hide=issues)](https://github.com/clacrisostomo/42_cursus_libft) | [![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_get_next_line&theme=material-palenight&hide_border=true&show_icons=true&count_private=true&hide=issues)](https://github.com/clacrisostomo/42_cursus_get_next_line) |
+| [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_libft&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_libft) | [![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_get_next_line&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_get_next_line) |
 |:-:|:-:|
 
 | [![Ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_ft_printf&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_ft_printf) | [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_cub3d&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_cub3d) |
