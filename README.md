@@ -5,7 +5,7 @@
 <h3> About me</h3>
 
 - 👩‍🚀 I’m currently studying Software Engineering as a Cadet at [42 Sâo Paulo](https://www.42sp.org.br/)
-- 👩‍💻 Currently working as an Admissions agent at [Tagarela Intercambios](http://tagarela.com.au)
+- 👩‍💻 Currently working as a Software Engineer at [42 São Paulo](https://www.42sp.org.br)
 - 📖 Freelance translator EN PT
 - 🎬 Interested in films and series
 - 🌎 Love travelling and languages
