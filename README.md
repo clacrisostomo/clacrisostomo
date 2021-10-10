@@ -27,6 +27,9 @@
 | [![Ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_ft_printf&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_ft_printf) | [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_cub3d&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_cub3d) |
 |:-:|:-:|
 
+| [![Born2beRoot](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_Born2beRoot&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_Born2beRoot) | [![Minitalk](https://github-readme-stats.vercel.app/api/pin/?username=clacrisostomo&repo=42_cursus_minitalk&theme=material-palenight&hide_border=true)](https://github.com/clacrisostomo/42_cursus_minitalk) |
+|:-:|:-:|
+
 ---
 
 | [![Clarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=clacrisostomo&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=material-palenight)](https://github.com/clacrisostomo?tab=repositories) | [![Clarissa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clacrisostomo&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/clacrisostomo?tab=repositories) |
